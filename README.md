@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tec-ninja
-- 👀 I’m interested in full stack and blockchain development.
-- 🌱 I’m currently learning Smart contracts
-- 💞️ I’m looking to collaborate on variety of projects with different tech stacks remotely
+- 👀 I’m interested in full-stack/AI/blockchain development.
+- 🌱 I’m currently open to market, looking for a new challenge
+- 💞️ I’m looking to collaborate with someone who have a good business idea
 - 📫 How to reach me: devstar1112@gmail.com
 
 <!---
