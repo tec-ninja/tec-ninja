@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tec-ninja
 - 👀 I’m interested in full-stack/AI/blockchain development.
-- 🌱 I’m currently open to market, looking for a new challenge
-- 💞️ I’m looking to collaborate with someone who have a good business idea
+- 🌱 I’m currently open to any type of collaboration, looking for a new challenge
+- 💞️ I’m looking to partnership with someone who have a good business idea
 - 📫 How to reach me: devstar1112@gmail.com, https://t.me/tenjinca
 
 <!---
